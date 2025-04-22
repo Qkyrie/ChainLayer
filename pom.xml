@@ -14,7 +14,7 @@
 
 
     <groupId>org.cipheredge</groupId>
-    <artifactId>chain-proxy</artifactId>
+    <artifactId>chainlayer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Cipheredge Chain Proxy</name>
